@@ -8,9 +8,8 @@ I also design products and build them with AI (Gemini and Copilot earlier, Claud
 
 ## Start here
 
-- **[dota2inhouse-showcase](https://github.com/Cienszki/dota2inhouse-showcase)**: the tournament platform of a Polish Dota 2 community (about 2,500 people). A bot creates the match lobbies and results import themselves from the Steam API and OpenDota. 4 seasons, 84 teams, 290 matches. Next.js, Firebase, a Node bot on Railway.
+- **[dota2inhouse-showcase](https://github.com/Cienszki/tournament-platform-showcase)**: the tournament platform of a Polish Dota 2 community (about 2,500 people). A bot creates the match lobbies and results import themselves from the Steam API and OpenDota. 4 seasons, 84 teams, 290 matches. Next.js, Firebase, a Node bot on Railway.
 
-- **[workspace-automation](https://github.com/Cienszki/workspace-automation)**: Google Apps Script tools for Workspace admins. Every script has a dry-run mode and a log.
 
 ## Tools
 
